@@ -160,7 +160,7 @@ span {
   }
 
   to {
-    transform: rotate(1080);
+    transform: rotate(1080deg);
   }
 }
 
@@ -358,7 +358,7 @@ span {
   border-radius: 5%;
   background-color: #38424d;
   opacity: 0;
-  transition: all 0.3 ease-out 0s;
+  transition: all 0.3s ease-out 0s;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px),
